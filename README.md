@@ -1,0 +1,4 @@
+JXCoreData
+==========
+
+CoreData Simple Demo
